@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # Name:         Average
-# Purpose:		To calculate the grade average of a user for a single semester.
+# Purpose:		Calculates the average of a student's marks.
 # Author:       Bassias. Blake
 # Created:      22/03/2024
 #-------------------------------------------------------------------------
