@@ -7,4 +7,6 @@
 import math
 radius = input("Enter the radius (cm):")
 circum = round((float(radius)*math.pi*2), 2)
-print ("The circumference of your circle is", float(circum), "cm^2")
+print("The circumference of your circle is", float(circum), "cm^2")
+print("The circumference of your circle is " + str(circum) + "cm^2")
+print(f"The circumference of your circle is {int(circum)} cm^2")
