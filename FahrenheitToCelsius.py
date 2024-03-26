@@ -7,3 +7,5 @@
 fahren = input("Enter the temperature in fahrenheit:")
 celc = ((int(fahren)-32)*5/9)
 print(fahren, "degrees fahrenheit is", int(celc), "degrees celcius.")
+print(str(fahren) + " degrees fahrenheit is " + str(int(celc)) + " degrees celcius.")
+print(f"{str(fahren)} degrees fahrenheit is {str(int(celc))} degrees celcius.")
